@@ -1,0 +1,11 @@
+﻿Español:¡La app está en la carpeta "main"
+
+English:The app is in the "main" folder!
+
+Português: O aplicativo está na pasta "main"!
+
+Français: L'application se trouve dans le dossier "main" !
+
+Deutsch: Die App befindet sich im Ordner "main"!
+
+日本語: アプリは「main」フォルダの中にあります！

@@ -1,9 +1,4 @@
-__pycache__/
-*.pyc
-venv/
-env/
-.vscode/
-# PyInstaller
-build/
 dist/
+build/
+main/
 *.spec
