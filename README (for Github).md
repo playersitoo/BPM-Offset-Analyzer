@@ -39,4 +39,4 @@ pip install -r requirements.txt
 
 [ ] C# GUI development for the Beta phase.
 
-Developed for the mapping community.
+Developed for the mapping community
